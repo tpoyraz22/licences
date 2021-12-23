@@ -1,10 +1,18 @@
 {
     "31a61e0f539eb2827de7a4fa28dc114adc926b14f6b7e7f73742b1a0044b11d3": {
         "name": "tolga poyraz",
-        "valid-until": "05-11-2022"
+        "valid-until": {
+            "day": 5,
+            "month": 12,
+            "year": 2022
+        }
     },
     "a84f3071a79729200ed36bf78df960d5fd850acf81c210c080a5aa59057c1df0": {
         "name": "yusuf poyraz",
-        "valid-until": "01-17-2023"
+        "valid-until": {
+            "day": 10,
+            "month": 3,
+            "year": 2023
+        }
     }
 }
